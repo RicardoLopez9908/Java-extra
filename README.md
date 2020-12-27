@@ -1,1 +1,1 @@
-en este repositorio se encuentran las clases recibidas en el curso de java ofrecido por la pagina "Edutin"
+En este repositorio se encuentran algunas practicas de las clases de Java, ofrecidas por el curso "Edutin"
